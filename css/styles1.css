@@ -1,2 +1,11 @@
-h3 {color:yellow;}
-h4 {color:red;}
+h3 {
+	color : yellow;
+	font-family : Arial;
+	border : 2px solid pink;
+	padding : 30px;
+}
+h4 {
+	color : red;
+	border : 1px solid black;
+	margin-left:150px;
+}

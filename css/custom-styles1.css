@@ -1,0 +1,14 @@
+#style1-id1 {
+	color:rgb(200,30,210);
+	font-family : Verdana;
+    font-size : 25px;
+    border : 1px solid brown;
+}
+p.style1-class1 {
+	color:cyan;
+	background-color:grey;
+}
+h4.style1-class1 {
+	color:red;
+	background-color:cyan;
+}
